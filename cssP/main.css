@@ -6,5 +6,15 @@ body{
 
 .navbar-light .navbar-nav .nav-link{
     color: whitesmoke;
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.img-mod{
+    height: 50%;
+    width: 50%;
 }
 
